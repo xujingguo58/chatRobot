@@ -61,7 +61,7 @@ app.listen(3000);
   提供了聊天对话，天气查询，成语接龙等功能，并且还能够微信公众号接入以及其它第三方接入。
   
 ## 运行截图
-
+![截图](https://github.com/xujingguo58/chatRobot/blob/master/screenshot.png)
 ## 存在的问题
 
 1.首先是页面布局，对height的设置为auto，这样在程序起始的时候页面会很短。
